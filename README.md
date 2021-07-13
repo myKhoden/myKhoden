@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelOden
+- 👋 Hi, I’m @MichaelOden
 - 👀 I’m interested in Cloud engineering and cyber security 
 - 🌱 I’m currently learning AWS and GCP
 - 💞️ I’m looking to collaborate on technical writing, Cloud and Product management 
